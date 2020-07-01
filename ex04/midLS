@@ -1,1 +1,1 @@
-ls -trmF
+ls -UmF
