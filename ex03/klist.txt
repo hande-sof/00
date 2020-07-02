@@ -1,2 +1,5 @@
-    Name                Cache name                                 Expires
-* soilee@42SEOUL.KR   API:B5741E20-42FD-4A9C-8DF6-0FB9F4A0E8FE   Jul  3 01:35:43 2020
+Credentials cache: API:C4AB16F8-7C32-4ABA-BB20-9638B883D3CD
+        Principal: soilee@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jul  2 17:10:36 2020  Jul  3 03:10:36 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
