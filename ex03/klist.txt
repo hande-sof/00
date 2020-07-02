@@ -1,2 +1,2 @@
     Name                Cache name                                 Expires
-* soilee@42SEOUL.KR   API:59306FC0-947C-445D-88B9-831882912DE2   Jul  1 22:33:01 2020
+* soilee@42SEOUL.KR   API:B5741E20-42FD-4A9C-8DF6-0FB9F4A0E8FE   Jul  3 01:35:43 2020
