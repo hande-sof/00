@@ -1,2 +1,2 @@
 #!/bin/bash
-git log | grep commit | head -n 5 | cut -c 8-
+git log --pretty=format%H | head -5 | cut -c 6-

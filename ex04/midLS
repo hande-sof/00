@@ -1,1 +1,1 @@
-ls -UmF
+ls -UtmF
